@@ -22,7 +22,8 @@
 
 .logo-container {
     width: 155px;
-    padding: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
 
     
 }
@@ -40,12 +41,18 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    padding: 0;
 }
 
 .nav-elements {
     list-style-type: none;
-    margin: 20px;
+    margin-bottom: 13px;
 }
+
+.nav-element-1 {
+    margin-right: 20px ;
+}
+
 
 
 /*MAIN*/
@@ -54,15 +61,38 @@
     width: 100%;
     height: 100vh;
     background-color:#3CDBC0 ;
-  
-}
-
-.title {
     display:flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    color: #FFFFFF;
+}
 
+.text{
+    color: #FFFFFF;
+    font-size: 30px;
 
 }
+
+.text-1{
+    display: block;
+
+}
+
+.text-2{
+    display:block;
+
+}
+
+.text-3{
+    display: block;
+
+}
+
+/*MEDIAS*/
+@media all and (min-width 768px){
+
+    .header {
+
+    }
+}
+
