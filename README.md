@@ -1,4 +1,5 @@
-# modulo-1-evaluacion-intermedia-mariavirum
-modulo-1-evaluacion-intermedia-mariavirum created by GitHub Classroom
+# HTML -CSS
 
-Evaluación Intermedia realizada el 23/12/2020 por María A. Virumbrales
+Página básica, creada con el objetivo de prácticar HTML, CSS, Web Responsive, Flexbox, Grid...
+
+María Virumbrales
