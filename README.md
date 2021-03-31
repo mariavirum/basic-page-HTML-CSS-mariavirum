@@ -1,5 +1,6 @@
 # HTML -CSS
 
-Página básica, creada con el objetivo de prácticar HTML, CSS, Web Responsive, Flexbox, Grid...
+1er ejercicio de maquetación en la formación de Adalab.
+Objetivo: prácticar HTML y CSS
 
 María Virumbrales
